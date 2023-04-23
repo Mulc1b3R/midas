@@ -1,0 +1,28 @@
+{
+  "name": "time-series-forecasting",
+  "version": "1.0.0",
+  "description": "Predictive analysis sma via API using Recurrent Neural Network & Long Short Term Memory (LSTM) and TensorFlow.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git push https://github.com/psico-mojo/time-series-forecasting.git master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psico-mojo/time-series-forecasting.git"
+  },
+  "keywords": [
+    "machine-learning",
+    "tensorflowjs",
+    "javascript"
+  ],
+  "author": "Jingles.Psico.zendog.mojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psico-mojo/time-series-forecasting.git"
+  },
+  "homepage": "https://github.com/psico-mojo/time-series-forecasting",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.4.0"
+  }
+}
