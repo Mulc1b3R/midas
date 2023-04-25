@@ -1,4 +1,4 @@
-async function trainModel(X, Y, window_size, n_epochs, learning_rate, n_layers, callback){
+ async function trainModel(X, Y, window_size, n_epochs, learning_rate, n_layers, callback){
 
   const batch_size = 32;
 
