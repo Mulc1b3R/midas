@@ -7,7 +7,7 @@ let trainingsize = 70;
 let data_temporal_resolutions = 'Weekly';
 
 $(document).ready(function(){
-  $('select').formSelect();
+$('select').formSelect();
 });
 
 
