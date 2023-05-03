@@ -1,15 +1,15 @@
 {
-  "name": "time-series-forecasting",
-  "version": "1.0.0",
+  "name": "midas-predictive-analysis",
+  "version": "1.0.1",
   "description": "Predictive analysis sma via API using Recurrent Neural Network & Long Short Term Memory (LSTM) and TensorFlow.js framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "git push https://github.com/psico-mojo/time-series-forecasting.git master"
+    "push": "git push https://github.com/psico-mojo/midas-predictive-analysis.master"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/psico-mojo/time-series-forecasting.git"
+    "url": "https://github.com/psico-mojo/midas-predictive-analysis.git"
   },
   "keywords": [
     "machine-learning",
@@ -17,11 +17,11 @@
     "javascript"
   ],
   "author": "Jingles.Psico.zendog.mojo",
-  "license": "ISC",
+  "license": "Apache 2.4",
   "bugs": {
-    "url": "https://github.com/psico-mojo/time-series-forecasting.git"
+    "url": "https://github.com/psico-mojo/midas-predictive-analysis.git"
   },
-  "homepage": "https://github.com/psico-mojo/time-series-forecasting",
+  "homepage": "https://github.com/psico-mojo/midas-predictive-analysis"
   "dependencies": {
     "@tensorflow/tfjs": "^4.4.0"
   }
