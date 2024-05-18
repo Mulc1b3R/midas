@@ -1,8 +1,7 @@
+##Predictive Analysis
 
-
-#Predictive Analysis of Stock 
-Market Tickers using Time Series Forecasting and Hisorical data via API 
-and Machine Learning Neural Network Pretrained Models.
+of stock market Tickers using Time Series Forecasting and Hisorical data via API 
+and Machine Learning Neural Network. (LSTM).
 
 ![midas](midas.jpg)
 
