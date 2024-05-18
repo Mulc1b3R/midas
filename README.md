@@ -1,4 +1,4 @@
-##Predictive Analysis
+## Midas Predictive Analysis.
 
 of stock market Tickers using Time Series Forecasting and Hisorical data via API 
 and Machine Learning Neural Network. (LSTM).
