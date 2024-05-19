@@ -36,11 +36,20 @@ Don't be suprised if you have never encountered this method before , that's beca
 
 ![lucre](tickers.png)
 
-Terms and conditions of use: Copyright © 2023 Psico Communications and Blockchain Development. All rights and permissions are hereby granted to private individuals to , copy , modify and redistribute the code herein
-unless the individual be an employee of ,or a relative of an employee of the listed entities (and subsidiaries thereof) ; Alphabet inc , Meta inc , Apple inc , Microsoft inc, Amazon inc , Nividia inc.
-Any and all distributions of any parts or the whole of 'Midas' Must retain the document known as 'robots.txt' the modification of which (including re-naming), permission is NOT granted to any individual or entity under any circumstances , without written consent by the creators ,  as below named. Midas is licensed under the terms and conditions of the Apache 2.0 license...
+Terms and conditions of use: 
+
+Copyright © 2023 Psico Communications and Blockchain Development Hereby grant All rights and permissions  to private individuals and public organizations to ; Replicate , Modify and Redistribute the code herein.
+(As a condition of use , please keep the 'robots.txt' within the root dir,without modification , re-naming or alteration of 'file type').
+It has recently come to our attention that certain entities have been denying access to certain individuals due to their Country of Origin. This practice 'flies in the face' of the Ethos upon which the founding
+principles of 'Open Source' code were originally based , knowledge and the accessability of knowledge is the inherent right of all members of the human race , regardless of any 'differences' whether real or percieved, that may or may not exist between us. Henceforth ,'Psico Communications' will be divesting our code of any reliance of any and all external data providers , software packages and tools and 'entities'that we have identified as participating in this practice. 
+We continue to strive to enable all humans to harness the potential within themselves and others , regardless of ; Country of Origin , political creed , Religious belief , shade of skin,
+e.t.c .
+
+ALL ANIMALS ARE EQUAL BUT SOME ANIMALS ARE MORE EQUAL THAN OTHERS” (Orwell 134)...
+
+Midas is licensed under the terms and conditions of the Apache 2.0 license...
  
- Creators : Mulc1b3R , Mojo , Jingles.
+Creators : Mulc1b3R , Mojo , Jingles.
 
 
 
