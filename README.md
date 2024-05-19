@@ -32,6 +32,10 @@ Don't be suprised if you have never encountered this method before , that's beca
 ### Now train your neural network on decades of historical data in your browser , and it will predict your chosen tickers share price
 ### a week in advance...
 
+***************************************************************************************************************************************************************************************************************************
+
+![lucre](tickers.png)
+
 
 
 ```MADE IN YORKSHIE```
