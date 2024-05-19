@@ -151,15 +151,15 @@
               <small class="form-text text-muted">You can claim your API key from <a href="https://www.alphavantage.co/support/#api-key" target="_blank">alphavantage.co</a></small>
             </div>
           </div>
-          <div class="col m4">
-            <div class="input-field col s12">
-              <select onchange="onClickChangeDataFreq(this)">
-                <option value="Weekly" onchange="onClickChangeDataFreq('Weekly')"selected>Weekly</option>
-                <option value="Daily" onchange="onClickChangeDataFreq('Daily')">Daily</option>
-              </select>
-              <label>Data Temporal Resolutions</label>
-            </div>
-          </div>
+         <div class="col m4">
+  <div class="input-field col s12">
+    <select onchange="onClickChangeDataFreq(this)">
+      <option value="Weekly" onchange="onClickChangeDataFreq('Weekly')">Weekly</option>
+      <option value="Daily" onchange="onClickChangeDataFreq('Daily')">Daily</option>
+    </select>
+    <label>Data Temporal Resolutions</label>
+  </div>
+</div>
           <div class="col s12">
             <button class="waves-effect waves-light btn" id="btn_fetch_data" onclick="onClickFetchData()">Fetch Data</button>
             <div class="preloader-wrapper small active" id="load_fetch_data" style="display:none">
