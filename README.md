@@ -42,6 +42,9 @@ Copyright © 2023 Psico Communications and Blockchain Development Hereby grant A
 (As a condition of use , please keep the 'robots.txt' within the root dir,without modification , re-naming or alteration of 'file type').
 It has recently come to our attention that certain entities have been denying access to certain individuals due to their Country of Origin. This practice 'flies in the face' of the Ethos upon which the founding
 principles of 'Open Source' code were originally based , knowledge and the accessability of knowledge is the inherent right of all members of the human race , regardless of any 'differences' whether real or percieved, that may or may not exist between us. Henceforth ,'Psico Communications' will be divesting our code of any reliance of any and all external data providers , software packages and tools and 'entities'that we have identified as participating in this practice. 
+
+(Midas is the first to get the 'Street-fighter' treatment , as a standalone AI).
+
 We continue to strive to enable all humans to harness the potential within themselves and others , regardless of ; Country of Origin , political creed , Religious belief , shade of skin,
 e.t.c .
 
