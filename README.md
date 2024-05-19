@@ -44,7 +44,7 @@ Any and all distributions of any parts or the whole of 'Midas' Must retain the d
 
 
 
-```MADE IN YORKSHIRE```
+```MADE IN YORKSHIRE and SINGAPORE ```
 
 
 
