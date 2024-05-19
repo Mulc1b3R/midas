@@ -38,9 +38,9 @@ Don't be suprised if you have never encountered this method before , that's beca
 
 Terms and conditions of use: Copyright © 2023 Psico Communications and Blockchain Development. All rights and permissions are hereby granted to private individuals to , copy , modify and redistribute the code herein
 unless the individual be an employee of ,or a relative of an employee of the listed entities (and subsidiaries thereof) ; Alphabet inc , Meta inc , Apple inc , Microsoft inc, Amazon inc , Nividia inc.
-Any and all distributions of any parts or the whole of 'Midas' Must retain the document known as 'robots.txt' the modification of which (including re-naming), permission is NOT granted to any individual or entity under any circumstances , without written consent by the creators ,  as above named. Midas is licensed under the terms and conditions of the Apache 2.0 license...
+Any and all distributions of any parts or the whole of 'Midas' Must retain the document known as 'robots.txt' the modification of which (including re-naming), permission is NOT granted to any individual or entity under any circumstances , without written consent by the creators ,  as below named. Midas is licensed under the terms and conditions of the Apache 2.0 license...
  
-Mulc1b3R
+ Creators : Mulc1b3R , Mojo , Jingles.
 
 
 
