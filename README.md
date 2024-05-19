@@ -10,12 +10,12 @@ Predict the price of any stock ticker in the S&P 500.
 
 ### Method
 
-Get an alphavantage api key...
+... API key from =  https://www.alphavantage.co/support/#api-key
 
 Clone the repo ; ```https://github.com/Mulc1b3R/midas.git```   or Fork it...
 
 ```npm i``` to install @tensorflow/tfjs
 
-Double click on ```index.html```
+Double click on ```index.html```  or visit live demo 
 
 
